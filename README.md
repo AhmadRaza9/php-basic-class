@@ -10,3 +10,4 @@ Read Files Order
 6 - static_modifiers.php
 7 - setters_getters.php
 8 - static_reference.php
+9 - constructors_destructors.php
